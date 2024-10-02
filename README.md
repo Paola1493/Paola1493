@@ -1,8 +1,7 @@
 ## Hola 👋 Soy Paola. ¡ Es un gusto tenerte por aquí!
 
 Sobre mí:
-
-Soy analista de datos ​📈​ y licenciada en ciencias de la actividad física 🏋️​, con una profunda pasión tanto por el análisis de datos como por el deporte y el bienestar social. Me desempeño como profesora de tiro con arco y deporte adaptado ​🎯​👩‍🦽​, lo que me permite combinar mi amor por el deporte con mi compromiso de contribuir a la sociedad. Me destaco por mi responsabilidad, entusiasmo por el trabajo en equipo y un constante deseo de aprender y mejorar en todos mis campos de actuación.
+Soy una profesional apasionada por el análisis de datos📈 con una sólida formación en descubrir patrones ocultos y extraer información valiosa a partir de grandes volúmenes de datos. Mi entusiasmo por resolver problemas complejos me impulsa a buscar nuevas oportunidades donde pueda aplicar mis conocimientos en Python (pandas, NumPy), Dash, SQL, herramientas de visualización (seaborn, Matplotlib, plotly) y técnicas de Machine Learning (sklearn), contribuyendo a proyectos innovadores.
 
 🎓 Soy un entusiasta del análisis de datos con formación en Tripleten Latam. 
 
