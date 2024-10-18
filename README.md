@@ -1,7 +1,8 @@
 ## Hola 👋 Soy Paola. ¡ Es un gusto tenerte por aquí!
 
 Sobre mí:
-Soy una profesional apasionada por el análisis de datos📈 con una sólida formación en descubrir patrones ocultos y extraer información valiosa a partir de grandes volúmenes de datos. Mi entusiasmo por resolver problemas complejos me impulsa a buscar nuevas oportunidades donde pueda aplicar mis conocimientos en Python (pandas, NumPy), Dash, SQL, herramientas de visualización (seaborn, Matplotlib, plotly) y técnicas de Machine Learning (sklearn), contribuyendo a proyectos innovadores.
+
+Soy una profesional apasionada por el análisis de datos📈 con una sólida formación en descubrir patrones ocultos y extraer información valiosa a partir de grandes volúmenes de datos. Mi entusiasmo por resolver problemas complejos me impulsa a buscar nuevas oportunidades donde pueda aplicar mis conocimientos en Python (pandas, NumPy), Tableau, SQL, herramientas de visualización (seaborn, Matplotlib, plotly) y técnicas de Machine Learning (sklearn), contribuyendo a proyectos innovadores.
 
 🎓 Soy un entusiasta del análisis de datos con formación en Tripleten Latam. 
 
